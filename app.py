@@ -1,3 +1,5 @@
+# Flask application that provides prices for certain vegetables
+
 from flask import Flask
 import pandas as pd
 import os

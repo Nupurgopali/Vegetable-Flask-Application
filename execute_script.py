@@ -1,3 +1,6 @@
+
+# script is used to execute update_veg_prices.py and app.py file
+
 import subprocess
 import os
 import sys

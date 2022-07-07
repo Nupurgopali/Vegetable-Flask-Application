@@ -1,3 +1,6 @@
+
+#Script creates a csv file that contains prices of vegetables.
+
 import pandas as pd 
 import os
 import sys
